@@ -1,0 +1,58 @@
+.nav-link::after{
+    content: '';
+    width: 0;
+    display: block;
+    height: 3px;
+    background: #E0A800;
+    transition: width .3s;
+}.nav-link:hover::after{
+    width: 100%;
+    transition: width .3s;
+}
+.form1{
+    background-image: url(img/bacground.avif);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+
+}
+.navbar{
+    background-color: none;
+}
+
+.form2{
+    color: aquamarine;
+    
+
+}
+
+.paperStyle{
+    margin-top: 20px;
+    margin:  auto;
+    padding: 20px; ;
+    width: 400px;
+    height: 73vh;
+
+}
+.paperStylebg{
+    margin-top: 20px;
+    margin:  auto;
+    padding: 20px; ;
+    width: 400px;
+
+}
+.backpic{
+    background-image:linear-gradient(rgba(79, 128, 145, 0.9),rgba(105, 108, 117, 0.6)), url(img/cc2.jpg);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+
+}
+.logo{
+    height: 60px;
+    width: 130px;
+    
+}
+

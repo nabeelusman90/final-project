@@ -1,0 +1,20 @@
+final project by muhammad nabeel usman 
+A Ecommerce Website made with React.js Framework.
+Fully Responsive
+
+using:
+  
+
+use api to listing of products 
+
+use redux @reduxjs/toolkit to manage state
+use fromik yup for for validating form values and ensures that the submitted data is error-free and matches a predetermined schema. 
+ add to cart : you can add products in cart checkout out product'
+ create contant us 
+ create login and sinup form with fromik yup
+add curd system to add delete and update;
+ Install dependencies
+ cd E-Commerce final project
+  npm install
+  Start the server
+  npm start
